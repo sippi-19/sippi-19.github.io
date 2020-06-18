@@ -9,3 +9,5 @@ Ellie Williams ist einer der beiden Hauptcharaktere aus dem Spiel "The Last Of U
 * Cordyceps-infiziert
 * einzige Person, bei der die Krankheit nicht ausbricht
 * Fireflies wollten sie töten, um einen Impfstoff herzustellen
+
+> Swear to me that everything you told me about the fireflies is true.
